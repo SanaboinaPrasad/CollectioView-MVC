@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "c691e368893d0ec707e62184360e17f3"
+build_time: [1541221320, 7489000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/CollectionViewpagingButtons/CollectionViewpagingButtons/SwipeCollection.swift": [1541218891, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionViewpagingButtons/CollectionViewpagingButtons/ViewController.swift": [1541221283, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionViewpagingButtons/CollectionViewpagingButtons/AppDelegate.swift": [1541221255, 0]
+  "/Users/sriramprasad/Dev/rough/CollectionViewpagingButtons/CollectionViewpagingButtons/Page.swift": [1541218891, 0]
